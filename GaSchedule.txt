@@ -1,0 +1,1201 @@
+
+#prof
+	id = 1
+	name = srs
+#end
+
+#prof
+	id = 2
+	name = smj
+#end
+
+#prof
+	id = 3
+	name = vjk
+#end
+
+#prof
+	id = 4
+	name = arb
+#end
+
+#prof
+	id = 5
+	name = svb
+#end
+
+#prof
+	id = 6
+	name = ssb
+#end
+
+#prof
+	id = 7
+	name = srh
+#end
+
+#prof
+	id = 8
+	name = bbs
+#end
+
+#prof
+	id = 9
+	name = pan
+#end
+
+#prof
+	id = 10
+	name = ank
+#end
+
+#prof
+	id = 11
+	name = mrp
+#end
+
+#prof
+	id = 12
+	name = sg
+#end
+
+#prof
+	id = 13
+	name = sp
+#end
+
+#prof
+	id = 14
+	name = swp
+#end
+
+#course
+	id = 1
+	name = IS 
+#end
+
+#course
+	id = 2
+	name = SS
+#end
+
+#course
+	id = 3
+	name = ANN
+#end
+
+#course
+	id = 4
+	name = DSP
+#end
+
+#course
+	id = 5
+	name = DWDM
+#end
+
+#course
+	id = 6
+	name = CN
+#end
+
+#course
+	id = 7
+	name = WMC 
+#end
+
+#course
+	id = 8
+	name = POM
+#end
+
+#course
+	id = 9
+	name = DS
+#end
+
+#course
+	id = 10
+	name = SE
+#end
+
+#course
+	id = 11
+	name = DC
+#end
+
+#course
+	id = 12
+	name = HCI
+#end
+
+#course
+	id = 13
+	name = PSQT
+#end
+
+#course
+	id = 14
+	name = MPI
+#end
+#course
+	id = 15
+	name = LP
+#end
+
+#course
+	id = 16
+	name = CA
+#end
+
+#course
+	id = 17
+	name = DCS
+#end
+
+#course
+	id = 18
+	name = MS
+#end
+
+#course
+	id = 19
+	name = ISL
+#end
+#course
+	id = 20
+	name = ANNL
+#end
+
+#course
+	id = 21
+	name = CNL
+#end
+
+#course
+	id = 22
+	name = WMCL
+#end
+
+#course
+	id = 23
+	name = DSL
+#end
+
+#course
+	id = 24
+	name = SEL
+#end
+
+#course
+	id = 25
+	name = HCIL
+#end
+
+#course
+	id = 26
+	name = MPIL
+#end
+#course
+	id = 27
+	name = MSL
+#end
+#course
+	id = 28
+	name = CAL
+#end
+#course
+	id = 29
+	name = DCL
+#end
+#course
+	id = 30
+	name = DSPL
+#end
+#course
+	id = 31
+	name = DCSL
+#end
+#room
+	name = 18
+	lab = false
+	size = 80
+#end
+
+#room
+	name = 19
+	lab = false
+	size = 80
+#end
+
+#room
+	name = 103A
+	lab = true
+	size = 20
+#end
+
+#room
+	name = 104
+	lab = true
+	size = 20
+#end
+#room
+	name = 105
+	lab = true
+	size = 20
+#end
+
+#room
+	name = 103B
+	lab = true
+	size = 20
+#end
+#group
+	id = 1
+	name = S1
+	size = 20
+#end
+
+#group
+	id = 2
+	name = S2
+	size = 20
+#end
+
+#group
+	id = 3
+	name = S3
+	size = 20
+#end
+
+#group
+	id = 4
+	name = S4
+	size = 20
+#end
+
+#group
+	id = 5
+	name = T1
+	size = 20
+#end
+
+#group
+	id = 6
+	name = T2
+	size = 20
+#end
+
+#group
+	id = 7
+	name = T3
+	size = 20
+#end
+
+#group
+	id = 8
+	name = T4
+	size = 20
+#end
+#group
+	id = 9
+	name = F1
+	size = 20
+#end
+
+#group
+	id = 10
+	name = F2
+	size = 20
+#end
+
+#group
+	id = 11
+	name = F3
+	size = 20
+#end
+
+#group
+	id = 12
+	name = F4
+	size = 20
+#end
+#class
+	professor = 1
+	course = 1
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 1
+	course = 1
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 1
+	course = 1
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 1
+	course = 2
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+
+#class
+	professor = 1
+	course = 2
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+
+#class
+	professor = 1
+	course = 2
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 1
+	course = 19
+	duration = 2
+	group = 9
+	lab = true
+#end
+#class
+	professor = 1
+	course = 19
+	duration = 2
+	group = 10
+	lab = true
+#end
+#class
+	professor = 1
+	course = 19
+	duration = 2
+	group = 11
+	lab = true
+#end
+#class
+	professor = 1
+	course = 19
+	duration = 2
+	group = 12
+	lab = true
+#end
+
+#class
+	professor = 2
+	course = 3
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 2
+	course = 3
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 2
+	course = 3
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 2
+	course = 4
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 2
+	course = 4
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 2
+	course = 4
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+
+#class
+	professor = 2
+	course = 20
+	duration = 2
+	group = 9
+	lab = true
+#end
+#class
+	professor = 2
+	course = 20
+	duration = 2
+	group = 10
+	lab = true
+#end
+#class
+	professor = 2
+	course = 20
+	duration = 2
+	group = 11
+	lab = true
+#end
+#class
+	professor = 2
+	course = 20
+	duration = 2
+	group = 12
+	lab = true
+#end
+#class
+	professor = 3
+	course = 5
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 3
+	course = 5
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 3
+	course = 5
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 3
+	course = 6
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 3
+	course = 6
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 3
+	course = 6
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 3
+	course = 21
+	duration = 2
+	group = 5
+	lab = true
+#end
+#class
+	professor = 3
+	course = 21
+	duration = 2
+	group = 6
+	lab = true
+#end
+#class
+	professor = 3
+	course = 21
+	duration = 2
+	group = 7
+	lab = true
+#end
+#class
+	professor = 3
+	course = 21
+	duration = 2
+	group = 8
+	lab = true
+#end
+#class
+	professor = 4
+	course = 7
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 4
+	course = 7
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 4
+	course = 7
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 4
+	course = 8
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 4
+	course = 8
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 4
+	course = 8
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 4
+	course = 22
+	duration = 2
+	group = 9
+	lab = true
+#end
+#class
+	professor = 4
+	course = 22
+	duration = 2
+	group = 10
+	lab = true
+#end
+#class
+	professor = 4
+	course = 22
+	duration = 2
+	group = 11
+	lab = true
+#end
+#class
+	professor = 4
+	course = 22
+	duration = 2
+	group = 12
+	lab = true
+#end
+#class
+	professor = 5
+	course = 9
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 5
+	course = 9
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 5
+	course = 9
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 5
+	course = 9
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 5
+	course = 23
+	duration = 2
+	group = 1
+	lab = true
+#end
+#class
+	professor = 5
+	course = 23
+	duration = 2
+	group = 2
+	lab = true
+#end
+#class
+	professor = 5
+	course = 23
+	duration = 2
+	group = 3
+	lab = true
+#end
+#class
+	professor = 5
+	course = 23
+	duration = 2
+	group = 4
+	lab = true
+#end
+#class
+	professor = 6
+	course = 10
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 6
+	course = 10
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 6
+	course = 10
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 6
+	course = 10
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 6
+	course = 11
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 6
+	course = 11
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 6
+	course = 11
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 6
+	course = 24
+	duration = 2
+	group = 5
+	lab = true
+#end
+#class
+	professor = 6
+	course = 24
+	duration = 2
+	group = 6
+	lab = true
+#end
+#class
+	professor = 6
+	course = 24
+	duration = 2
+	group = 7
+	lab = true
+#end
+#class
+	professor = 6
+	course = 24
+	duration = 2
+	group = 8
+	lab = true
+#end
+#class
+	professor = 7
+	course = 12
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+	
+#end
+#class
+	professor = 7
+	course = 12
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+	
+#end
+#class
+	professor = 7
+	course = 12
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+	
+#end
+
+#class
+	professor = 7
+	course = 25
+	duration = 2
+	group = 5
+	lab = true
+#end
+#class
+	professor = 7
+	course = 25
+	duration = 2
+	group = 6
+	lab = true
+#end
+#class
+	professor = 7
+	course = 25
+	duration = 2
+	group = 7
+	lab = true
+#end
+#class
+	professor = 7
+	course = 25
+	duration = 2
+	group = 8
+	lab = true
+#end
+#class
+	professor = 8
+	course = 13
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 8
+	course = 13
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 8
+	course = 13
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 9
+	course = 14
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 9
+	course = 14
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 9
+	course = 14
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 9
+	course = 15
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 9
+	course = 15
+	duration = 1
+	group = 1
+	group = 2
+	group = 3
+	group = 4
+#end
+#class
+	professor = 9
+	course = 26
+	duration = 2
+	group = 1
+	lab = true
+#end
+#class
+	professor = 9
+	course = 26
+	duration = 2
+	group = 2
+	lab = true
+#end
+#class
+	professor = 9
+	course = 26
+	duration = 2
+	group = 3
+	lab = true
+#end
+#class
+	professor = 9
+	course = 26
+	duration = 2
+	group = 4
+	lab = true
+#end
+#class
+	professor = 10
+	course = 16
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+
+#class
+	professor = 10
+	course = 16
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+
+#class
+	professor = 10
+	course = 16
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+
+#class
+	professor = 10
+	course = 17
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 10
+	course = 17
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 10
+	course = 17
+	duration = 1
+	group = 9
+	group = 10
+	group = 11
+	group = 12
+#end
+#class
+	professor = 10
+	course = 31
+	duration = 2
+	group = 9
+	lab = true
+#end
+#class
+	professor = 10
+	course = 31
+	duration = 2
+	group = 10
+	lab = true
+#end
+#class
+	professor = 10
+	course = 31
+	duration = 2
+	group = 11
+	lab = true
+#end
+#class
+	professor = 10
+	course = 31
+	duration = 2
+	group = 12
+	lab = true
+#end
+#class
+	professor = 11
+	course = 18
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 11
+	course = 18
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+#class
+	professor = 11
+	course = 18
+	duration = 1
+	group = 5
+	group = 6
+	group = 7
+	group = 8
+#end
+
+#class
+	professor = 11
+	course = 27
+	duration = 2
+	group = 5
+	lab = true
+#end
+#class
+	professor = 11
+	course = 27
+	duration = 2
+	group = 6
+	lab = true
+#end
+#class
+	professor = 11
+	course = 27
+	duration = 2
+	group = 7
+	lab = true
+#end
+#class
+	professor = 11
+	course = 27
+	duration = 2
+	group = 8
+	lab = true
+#end
+#class
+	professor = 12
+	course = 28
+	duration = 2
+	group = 5
+	lab = true
+#end
+#class
+	professor = 12
+	course = 28
+	duration = 2
+	group = 6
+	lab = true
+#end
+#class
+	professor = 12
+	course = 28
+	duration = 2
+	group = 7
+	lab = true
+#end
+#class
+	professor = 12
+	course = 28
+	duration = 2
+	group = 8
+	lab = true
+#end
+#class
+	professor = 13
+	course = 29
+	duration = 2
+	group = 1
+	lab = true
+#end
+#class
+	professor = 13
+	course = 29
+	duration = 2
+	group = 2
+	lab = true
+#end
+#class
+	professor = 13
+	course = 29
+	duration = 2
+	group = 3
+	lab = true
+#end
+#class
+	professor = 13
+	course = 29
+	duration = 2
+	group = 4
+	lab = true
+#end
+#class
+	professor = 14
+	course = 30
+	duration = 2
+	group = 9
+	lab = true
+#end
+#class
+	professor = 14
+	course = 30
+	duration = 2
+	group = 10
+	lab = true
+#end
+#class
+	professor = 14
+	course = 30
+	duration = 2
+	group = 11
+	lab = true
+#end
+#class
+	professor = 14
+	course = 30
+	duration = 2
+	group = 12
+	lab = true
+#end
